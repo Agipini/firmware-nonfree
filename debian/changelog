@@ -1,3 +1,14 @@
+firmware-nonfree (1:20190114-1+rpt1) buster; urgency=medium
+
+  * Add version numbers
+  * Add brcmfmac43430-sdio.txt and brcmfmac43455-sdio.txt
+  * Add brcmfmac43455-sdio.bin and brcmfmac43455-sdio.clm_blob
+  * Bump epoch to prevent being replaced by raspbian.org
+  * Strip epoch from VERSION_UPSTREAM
+  * Set KERNELVERSION to 4.18.0-3
+
+ -- Serge Schneider <serge@raspberrypi.org>  Fri, 25 Jan 2019 12:19:48 +0000
+
 firmware-nonfree (20190114-1) unstable; urgency=medium
 
   [ Romain Perier ]
