@@ -1,3 +1,10 @@
+firmware-nonfree (1:20190114-1+rpt2) buster; urgency=medium
+
+  * Update brcmfmac43455-sdio.txt
+    - Update boardflags3
+
+ -- Serge Schneider <serge@raspberrypi.org>  Thu, 18 Apr 2019 14:35:34 +0100
+
 firmware-nonfree (1:20190114-1+rpt1) buster; urgency=medium
 
   * Add version numbers
